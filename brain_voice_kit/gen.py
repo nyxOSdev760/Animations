@@ -3,6 +3,8 @@ import os, sys, re, json, time, subprocess, requests
 HERE = os.path.dirname(os.path.abspath(__file__))
 # Key comes from FISH_API_KEY, or is added by the environment's network secret for api.fish.audio
 KEY = os.environ.get("FISH_API_KEY")
+# s2.1-pro-free costs $0; set FISH_MODEL=s2.1-pro to use the paid model
+MODEL = os.environ.get("FISH_MODEL", "s2.1-pro-free")
 out_dir = sys.argv[1]; os.makedirs(out_dir, exist_ok=True)
 voices = json.load(open(os.path.join(HERE, "voices.json")))
 lines = []
@@ -17,7 +19,7 @@ def fname(n, spk): return f"{n:03d}_{spk.replace(' ', '_')}.mp3"
 
 def tts(text, ref):
     r = requests.post("https://api.fish.audio/v1/tts",
-        headers={**({"Authorization": f"Bearer {KEY}"} if KEY else {}), "Content-Type": "application/json", "model": "s2.1-pro"},
+        headers={**({"Authorization": f"Bearer {KEY}"} if KEY else {}), "Content-Type": "application/json", "model": MODEL},
         json={"text": text, "reference_id": ref, "format": "mp3", "mp3_bitrate": 192,
               "latency": "normal", "normalize": True}, timeout=180)
     if r.status_code in (401, 402, 403):
