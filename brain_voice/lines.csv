@@ -1,0 +1,98 @@
+number,speaker,text,filename,duration_seconds
+1,NARRATOR,Your teacher writes a problem nobody in class can solve.,001_NARRATOR.mp3,3.213
+2,NARRATOR,You glance at it once...,002_NARRATOR.mp3,1.358
+3,YOU,It's forty-two.,003_YOU.mp3,1.411
+4,TEACHER,That... took me three days.,004_TEACHER.mp3,2.482
+5,FRIEND,"Okay, okay, what was on page two hundred of the history book?",005_FRIEND.mp3,3.631
+6,YOU,Second paragraph or third?,006_YOU.mp3,1.881
+7,FRIEND,Bro.,007_FRIEND.mp3,0.575
+8,NARRATOR,"Yesterday, you were failing math.",008_NARRATOR.mp3,2.011
+9,NARRATOR,So what changed?,009_NARRATOR.mp3,1.306
+10,NARRATOR,Your brain grew. Just one percent.,010_NARRATOR.mp3,2.717
+11,NARRATOR,And tomorrow... it's going to grow again.,011_NARRATOR.mp3,2.351
+12,NARRATOR,Here's how it works.,012_NARRATOR.mp3,1.228
+13,NARRATOR,"Your brain has about eighty-six billion neurons. More brain means more connections, and more connections means more power.",013_NARRATOR.mp3,7.210
+14,NARRATOR,"Every day, you get a little more of it.",014_NARRATOR.mp3,2.246
+15,NARRATOR,But there's one thing that isn't growing.,015_NARRATOR.mp3,1.959
+16,NARRATOR,The box it lives in.,016_NARRATOR.mp3,1.280
+17,NARRATOR,Day three. You read a whole book in the time it takes to make toast.,017_NARRATOR.mp3,4.624
+18,MOM,Weren't you just starting that?,018_MOM.mp3,1.228
+19,YOU,Finished it. The butler did it.,019_YOU.mp3,2.482
+20,NARRATOR,Day seven. You learn Spanish over the weekend.,020_NARRATOR.mp3,3.683
+21,NARRATOR,Then Japanese on Monday.,021_NARRATOR.mp3,1.541
+22,FRIEND,Say something in Japanese.,022_FRIEND.mp3,1.776
+23,YOU,五ドル返して。,023_YOU.mp3,1.175
+24,YOU,That means you owe me five dollars.,024_YOU.mp3,2.246
+25,NARRATOR,Day twelve. The old guy in the park who's never lost a game of chess?,025_NARRATOR.mp3,4.441
+26,NARRATOR,You beat him in nine moves.,026_NARRATOR.mp3,1.698
+27,OLD MAN,Again.,027_OLD_MAN.mp3,0.888
+28,NARRATOR,Six moves.,028_NARRATOR.mp3,1.228
+29,OLD MAN,...I'm going home.,029_OLD_MAN.mp3,1.541
+30,NARRATOR,Day twenty. You notice the traffic lights in your town are badly timed.,030_NARRATOR.mp3,4.859
+31,NARRATOR,So you email the city a fix.,031_NARRATOR.mp3,1.959
+32,NARRATOR,"One week later, traffic jams drop by half.",032_NARRATOR.mp3,2.978
+33,NEWS ANCHOR,And officials say the plan came from... a sixteen-year-old?,033_NEWS_ANCHOR.mp3,4.049
+34,NARRATOR,Then comes the biggest quiz show in the country.,034_NARRATOR.mp3,2.560
+35,HOST,"Final question, for one million dollars...",035_HOST.mp3,2.717
+36,YOU,It's the blue whale.,036_YOU.mp3,1.358
+37,HOST,I haven't asked the question yet.,037_HOST.mp3,1.541
+38,YOU,You were going to.,038_YOU.mp3,1.123
+39,HOST,That's... correct.,039_HOST.mp3,1.228
+40,NARRATOR,"Overnight, you're everywhere.",040_NARRATOR.mp3,1.724
+41,NARRATOR,Scientists want to study you. Companies want to hire you.,041_NARRATOR.mp3,3.788
+42,FRIEND,People are calling you the Human Supercomputer.,042_FRIEND.mp3,1.829
+43,YOU,Kinda corny.,043_YOU.mp3,0.940
+44,FRIEND,You're literally a supercomputer.,044_FRIEND.mp3,1.463
+45,NARRATOR,"But by day thirty-five, the headaches start.",045_NARRATOR.mp3,2.795
+46,NARRATOR,Your brain burns about twenty percent of your body's energy. A bigger brain wants more.,046_NARRATOR.mp3,5.277
+47,NARRATOR,Five breakfasts. Still hungry.,047_NARRATOR.mp3,2.612
+48,MOM,That was the whole fridge.,048_MOM.mp3,1.541
+49,YOU,I'm thinking a lot.,049_YOU.mp3,1.228
+50,NARRATOR,Your favorite cap doesn't fit anymore.,050_NARRATOR.mp3,2.194
+51,NARRATOR,"And at night, you can hear your own heartbeat in your ears.",051_NARRATOR.mp3,3.187
+52,DOCTOR,Your skull is sealed. It can't grow with you. The pressure inside your head is rising every day.,052_DOCTOR.mp3,5.224
+53,YOU,How long?,053_YOU.mp3,0.862
+54,DOCTOR,A few weeks. Maybe less.,054_DOCTOR.mp3,1.933
+55,NARRATOR,But the doctor has good news too.,055_NARRATOR.mp3,1.829
+56,DOCTOR,We have a treatment. It stops the growth and shrinks your brain back to normal.,056_DOCTOR.mp3,4.023
+57,NARRATOR,Back to normal.,057_NARRATOR.mp3,0.940
+58,NARRATOR,Back to failing math.,058_NARRATOR.mp3,1.280
+59,DOCTOR,We start tomorrow morning.,059_DOCTOR.mp3,1.306
+60,NARRATOR,"That night, walking down the hallway, you meet a little girl named Lily.",060_NARRATOR.mp3,4.101
+61,LILY,Are you the smart guy from TV?,061_LILY.mp3,2.612
+62,YOU,...Yeah. That's me.,062_YOU.mp3,1.881
+63,NARRATOR,Lily has a disease so rare that only three hundred people in the world have it.,063_NARRATOR.mp3,4.049
+64,NARRATOR,There's no cure.,064_NARRATOR.mp3,1.123
+65,NARRATOR,Nobody's found one.,065_NARRATOR.mp3,1.358
+66,NARRATOR,But your brain doesn't just read her chart.,066_NARRATOR.mp3,2.194
+67,NARRATOR,It sees a pattern nobody else has.,067_NARRATOR.mp3,2.194
+68,NARRATOR,You're close. You can feel it.,068_NARRATOR.mp3,2.011
+69,NARRATOR,But you need one more day of growth to finish it.,069_NARRATOR.mp3,2.482
+70,NARRATOR,"Take the treatment in the morning, and you're safe.",070_NARRATOR.mp3,2.482
+71,NARRATOR,"Skip it... and every hour, the pressure gets worse.",071_NARRATOR.mp3,3.265
+72,NARRATOR,Your life...,072_NARRATOR.mp3,0.810
+73,NARRATOR,or the cure.,073_NARRATOR.mp3,0.862
+74,NARRATOR,You don't sleep.,074_NARRATOR.mp3,1.045
+75,NARRATOR,Your vision blurs. Your hands shake.,075_NARRATOR.mp3,2.482
+76,NARRATOR,Your head feels like it's going to split open.,076_NARRATOR.mp3,2.429
+77,NARRATOR,"At five forty-two in the morning, you write the last line...",077_NARRATOR.mp3,3.370
+78,NARRATOR,You wake up three days later.,078_NARRATOR.mp3,1.829
+79,DOCTOR,You're stable. The treatment worked.,079_DOCTOR.mp3,2.064
+80,DOCTOR,Your brain is back to normal.,080_DOCTOR.mp3,1.593
+81,YOU,And... the wall?,081_YOU.mp3,1.541
+82,DOCTOR,We sent it to every lab in the world.,082_DOCTOR.mp3,1.881
+83,DOCTOR,It works.,083_DOCTOR.mp3,0.627
+84,LILY,You're still the smart guy from TV!,084_LILY.mp3,2.847
+85,NARRATOR,You look at the equations you wrote.,085_NARRATOR.mp3,1.829
+86,NARRATOR,And you can't understand a single line of them.,086_NARRATOR.mp3,2.560
+87,YOU,Honestly? No clue what any of that means.,087_YOU.mp3,2.795
+88,NARRATOR,You're back in math class.,088_NARRATOR.mp3,1.541
+89,NARRATOR,You're failing again.,089_NARRATOR.mp3,1.280
+90,FRIEND,"Bro, you used to be a genius.",090_FRIEND.mp3,1.698
+91,YOU,I was a genius for five weeks.,091_YOU.mp3,2.194
+92,YOU,Lily gets the rest of her life.,092_YOU.mp3,2.011
+93,NARRATOR,"Then one morning, you open a book...",093_NARRATOR.mp3,1.959
+94,NARRATOR,And you remember every word.,094_NARRATOR.mp3,1.698
+95,NARRATOR,So what would you do with a brain that grew every day?,095_NARRATOR.mp3,2.769
+96,NARRATOR,Tell us in the comments what you'd learn first.,096_NARRATOR.mp3,2.429
+97,NARRATOR,"And if you'd have stayed up for Lily too... hit like, and subscribe for more What Ifs.",097_NARRATOR.mp3,4.806
