@@ -1,7 +1,8 @@
 """Generate voice lines with Fish Audio TTS. Usage: gen.py OUT_DIR LINE_NUMS... (or 'all')"""
 import os, sys, re, json, time, subprocess, requests
 HERE = os.path.dirname(os.path.abspath(__file__))
-KEY = os.environ["FISH_API_KEY"]
+# Key comes from FISH_API_KEY, or is added by the environment's network secret for api.fish.audio
+KEY = os.environ.get("FISH_API_KEY")
 out_dir = sys.argv[1]; os.makedirs(out_dir, exist_ok=True)
 voices = json.load(open(os.path.join(HERE, "voices.json")))
 lines = []
@@ -16,7 +17,7 @@ def fname(n, spk): return f"{n:03d}_{spk.replace(' ', '_')}.mp3"
 
 def tts(text, ref):
     r = requests.post("https://api.fish.audio/v1/tts",
-        headers={"Authorization": f"Bearer {KEY}", "Content-Type": "application/json", "model": "s2.1-pro"},
+        headers={**({"Authorization": f"Bearer {KEY}"} if KEY else {}), "Content-Type": "application/json", "model": "s2.1-pro"},
         json={"text": text, "reference_id": ref, "format": "mp3", "mp3_bitrate": 192,
               "latency": "normal", "normalize": True}, timeout=180)
     if r.status_code in (401, 402, 403):
