@@ -1,0 +1,23 @@
+number,speaker,text,filename,duration_seconds
+1,NARRATOR,"One morning, you sneeze... and the whole world stops.",001_NARRATOR.mp3,3.735
+2,NARRATOR,Exactly ten seconds. Then it starts again.,002_NARRATOR.mp3,3.213
+3,MOM,...and don't forget your lunch. Why are you staring at me?,003_MOM.mp3,2.847
+4,YOU,No reason.,004_YOU.mp3,0.940
+5,NARRATOR,Final exam. You studied for zero minutes.,005_NARRATOR.mp3,3.213
+6,NARRATOR,So you pause time... and read the answer key. Upside down.,006_NARRATOR.mp3,4.467
+7,YOU,Is that a B... or an 8?,007_YOU.mp3,2.194
+8,TEACHER,You got every question wrong. In a perfect pattern. How?,008_TEACHER.mp3,4.754
+9,YOU,Talent.,009_YOU.mp3,0.757
+10,NARRATOR,Your best friend has pranked you for years. Payback time.,010_NARRATOR.mp3,3.448
+11,FRIEND,BRO! When did you even...,011_FRIEND.mp3,2.429
+12,YOU,I've been standing here the whole time.,012_YOU.mp3,1.776
+13,NARRATOR,"Then one day, it isn't funny anymore.",013_NARRATOR.mp3,2.351
+14,NARRATOR,A car runs a red light. A kid on a bike is right in front of it.,014_NARRATOR.mp3,4.232
+15,NARRATOR,Ten seconds. You run.,015_NARRATOR.mp3,2.064
+16,KID,...How did I get over here?,016_KID.mp3,1.724
+17,NARRATOR,Nobody saw a thing.,017_NARRATOR.mp3,1.358
+18,NARRATOR,"The next morning, you pause time like always.",018_NARRATOR.mp3,2.795
+19,NARRATOR,But someone across the street... is still moving.,019_NARRATOR.mp3,3.213
+20,GIRL,Took you long enough.,020_GIRL.mp3,1.280
+21,NARRATOR,You're not the only one.,021_NARRATOR.mp3,1.175
+22,NARRATOR,"Part 2... if this hits 1,000 likes.",022_NARRATOR.mp3,3.265
